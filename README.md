@@ -1,1 +1,1 @@
-# Stock-Calculator ![](https://geps.dev/progress/100)
+# Stock-Calculator ![](https://geps.dev/progress/1%)
